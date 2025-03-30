@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            willy's book
+longtitle:        open source software
+author:           Donghyeon Son
+email:            willy_son@naver.com
 description: >
-  Build Jekyll site with the GitBook style.
+  오픈소스에 대한 내용을 담고 있습니다.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://willysondh.github.io'
+baseurl:          '/book'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
